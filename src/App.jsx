@@ -264,7 +264,7 @@ export default function App() {
           </div>
           <div className="flex items-center gap-2">
             <a
-              href="https://www.facebook.com"
+              href="https://www.facebook.com/share/1A1vyuGe30/"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-1.5 bg-blue-700 hover:bg-blue-600 px-3 py-1.5 rounded-lg text-xs font-medium"
