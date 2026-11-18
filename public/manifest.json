@@ -1,0 +1,16 @@
+{
+  "name": "Portal Rasmi KKPPFKSM",
+  "short_name": "KKPPFKSM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
